@@ -1,0 +1,9 @@
+.inti_body {
+    background-color: rgb(99, 93, 93);
+    background: linear-gradient( rgb(6, 21, 33), rgb(99, 93, 93));
+}
+
+.nav-item.dropdown:hover .dropdown-menu{
+    display:block;
+    margin-top: 0%;
+}
