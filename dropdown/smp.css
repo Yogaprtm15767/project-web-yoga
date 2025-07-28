@@ -1,6 +1,5 @@
-.inti_body {
-    background-color: rgb(99, 93, 93);
-    background: linear-gradient( rgb(6, 21, 33), rgb(99, 93, 93));
+.inti_body{
+    background-color: rgb(255, 255, 255);
 }
 
 .nav-item.dropdown:hover .dropdown-menu{
